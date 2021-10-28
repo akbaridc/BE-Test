@@ -23,8 +23,8 @@ const data = [
 ];
 
 function result(data) {
-  for (let i = 0; i > data.length; i++) {
-    if (data[i] != !null && !undefined) {
+  if (data != null || undefined) {
+    for (let i = 0; i > data.length; i++) {
       const newArray = [];
       const delet = delete data[i];
       return (newArray = delet);
