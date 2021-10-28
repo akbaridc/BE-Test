@@ -1,0 +1,31 @@
+1. Give a list of advantages of Node.js
+     -> Speed and perfomance
+     -> Single-threaded
+2. Give an explanation about Synchronous & Asynchronous
+     -> Synchronous is a process that will run or work after the previous process has been completed
+     -> Asynchronous is a process that continues the next process without waiting for the previous process to finish
+3. What is a module in Node.js?
+     -> In Node. js, Modules are the blocks of encapsulated code that communicates with an external application on the basis of their related functionality.
+4. Give an explanation about callback
+     -> Callback is a function that is to be executed after another function has finished executing.
+5. What are array iterator functions in JavaScript?
+     -> Array iterator function to manipulate elements and return multiple values.
+6.  What is the differentiation between SQL & NoSQL (at high level)?
+    -> SQL databases are relational, NoSQL databases are non-relational
+7. What is MongoDB?
+    -> MongoDB is a popular NoSQl database type for website development. Because the performance of this database is very fast, database management is easier, able to accommodate a lot of data
+8. What is index in MongoDB?
+    -> Indexes support the efficient execution of queries in MongoDB. Without indexes, MongoDB must perform a collection scan, i.e. scan every document in a collection, to select those documents that match the query statement. If an appropriate index exists for a query, MongoDB can use the index to limit the number of documents it must inspect.
+9. What is Document & Collection in MongoDB?
+    -> Collection : is a collection of data information in the form of documents. Collections are matched like tables containing data in a SQL database
+    -> Document : is the smallest unit in MongoDB.
+10. What Data Types are supported in MongoDB?
+    -> String
+    -> Integer
+    -> Double
+    -> Boolean
+    -> Array
+    -> Object
+    -> Object id
+    -> Date
+    -> Timestamp
